@@ -2,3 +2,6 @@ aepfel
 birnen
 bier
 lebakas
+chips
+wurst
+kaese
