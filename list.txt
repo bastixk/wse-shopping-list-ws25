@@ -5,3 +5,7 @@ lebakas
 chips
 wurst
 kaese
+tomaten
+gurkerl
+paprika
+salat
